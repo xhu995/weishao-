@@ -1,13 +1,13 @@
 [
     {
-        "name": "姓名1",
-        "stucode": "学号",
-        "password": "密码",
-        "schoolcode": "学校代码"
+        "name": "谢晓扬",
+        "stucode": "18065204575",
+        "password": "123456",
+        "schoolcode": "name":"福建电力职业技术学院","domain":"fjdy","pinyin":"fujiandianlizhiyejishuxueyuan"
     },{
-        "name": "姓名2",
-        "stucode": "学号",
-        "password": "密码",
-        "schoolcode": "学校代码"
+        "name": "曾怡滢",
+        "stucode": "18559479903",
+        "password": "123456",
+        "schoolcode": "name":"福建电力职业技术学院","domain":"fjdy","pinyin":"fujiandianlizhiyejishuxueyuan"
     }
 ]
