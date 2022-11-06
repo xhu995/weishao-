@@ -9,7 +9,7 @@ import sign
 
 def qq(text, desp):
     qmsg = "你的key"
-    return requests.get("https://qmsg.zendee.cn/send/" + qmsg + "?msg=" + text + "\n\n" + desp).json()
+    return requests.get("https://qmsg.zendee.cn/send/" + 3976edb5f5d263dbbbffaf4d95f1fafa + "?msg=" + text + "\n\n" + desp).json()
 
 
 if __name__ == '__main__':
